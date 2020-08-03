@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-mohamed-allam/)](https://www.linkedin.com/in/abdelrahman-mohamed-allam/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4613828/abdelrahman-m-allam)](https://stackoverflow.com/users/4613828/abdelrahman-m-allam)
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🔭 I’m currently working on Ruby, React, PHP, NodeJS
 - 🌱 I’m currently learning data, statistics, algorithmes  
 - 👯 I’m looking to collaborate on opensource projects
