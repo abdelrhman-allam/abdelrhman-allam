@@ -7,7 +7,7 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🔭 I’m currently working on Ruby, React, PHP, NodeJS
+- 🔭 I’m currently working on JavaScript, PHP, Laravel, React, PHP, .NET CORE C#, NodeJS, Ruby
 - 🌱 I’m currently learning data, statistics, algorithmes  
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with ...
