@@ -9,7 +9,7 @@
 -->
 - 🔭 I’m currently working on JavaScript, PHP, Laravel, React, PHP, .NET CORE C#, NodeJS, Ruby
 - 🌱 I’m currently learning data, statistics, algorithmes  
-- 👯 I’m looking to collaborate on opensource projects
+- 🦁 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with ... =]] just in case we always need help
 - 💬 Ask me about ... contact my my shared links 
 
