@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-allam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![HitCount](http://hits.dwyl.com/abdelrhman-allam/https://githubcom/abdelrhman-allam.svg)](http://hits.dwyl.com/abdelrhman-allam/https://githubcom/abdelrhman-allam)
+[![HitCount](http://hits.dwyl.com/abdelrhman-allam/abdelrhman-allam.svg)](http://hits.dwyl.com/abdelrhman-allam/abdelrhman-allam)
