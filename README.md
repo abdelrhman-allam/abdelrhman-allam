@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning data, statistics, algorithmes  
 - 🦁 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with ... =]] just in case we always need help
-- 💬 Ask me about ... contact my my shared links 
+- 💬 Ask me about ... contact my shared links 
 
 <!--
 **abdelrhman-allam/abdelrhman-allam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
