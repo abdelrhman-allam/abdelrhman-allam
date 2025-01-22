@@ -8,7 +8,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 -->
 - 🔭 I’m currently working on Rails, JavaScript, PHP, Laravel, React, PHP, .NET CORE C#, NodeJS
-- 🌱 I’m currently learning data, statistics, algorithmes  
+- 🌱 I’m currently learning data, statistics, algorithms  
 - 🦁 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with ... =]] just in case we always need help
 - 💬 Ask me about ... contact my shared links 
@@ -19,13 +19,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ruby, React, PHP, NodeJS
-- 🌱 I’m currently learning data, statistics, algorithmes  
+- 🌱 I’m currently learning data, statistics, algorithms  
 - 👯 I’m looking to collaborate on opensource projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with open-source
+- 😄 Pronouns: Abd-ElRahman
+
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=abdelrhman-allam&show_icons=true&theme=radical)
 -->
 
